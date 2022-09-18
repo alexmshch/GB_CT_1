@@ -17,5 +17,7 @@ for (int i = 0; i < Array1.Length; i++) {
 Console.WriteLine();
 }
 
-
+WriteArray(Array1);
+WriteArray(Array2);
+WriteArray(Array3);
 
