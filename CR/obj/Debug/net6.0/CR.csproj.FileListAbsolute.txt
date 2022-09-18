@@ -1,0 +1,15 @@
+/Users/aleksejmeserakov/Desktop/GB_CT_1/CR/obj/Debug/net6.0/CR.csproj.AssemblyReference.cache
+/Users/aleksejmeserakov/Desktop/GB_CT_1/CR/obj/Debug/net6.0/CR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejmeserakov/Desktop/GB_CT_1/CR/obj/Debug/net6.0/CR.AssemblyInfoInputs.cache
+/Users/aleksejmeserakov/Desktop/GB_CT_1/CR/obj/Debug/net6.0/CR.AssemblyInfo.cs
+/Users/aleksejmeserakov/Desktop/GB_CT_1/CR/obj/Debug/net6.0/CR.csproj.CoreCompileInputs.cache
+/Users/aleksejmeserakov/Desktop/GB_CT_1/CR/bin/Debug/net6.0/CR
+/Users/aleksejmeserakov/Desktop/GB_CT_1/CR/bin/Debug/net6.0/CR.deps.json
+/Users/aleksejmeserakov/Desktop/GB_CT_1/CR/bin/Debug/net6.0/CR.runtimeconfig.json
+/Users/aleksejmeserakov/Desktop/GB_CT_1/CR/bin/Debug/net6.0/CR.dll
+/Users/aleksejmeserakov/Desktop/GB_CT_1/CR/bin/Debug/net6.0/CR.pdb
+/Users/aleksejmeserakov/Desktop/GB_CT_1/CR/obj/Debug/net6.0/CR.dll
+/Users/aleksejmeserakov/Desktop/GB_CT_1/CR/obj/Debug/net6.0/refint/CR.dll
+/Users/aleksejmeserakov/Desktop/GB_CT_1/CR/obj/Debug/net6.0/CR.pdb
+/Users/aleksejmeserakov/Desktop/GB_CT_1/CR/obj/Debug/net6.0/CR.genruntimeconfig.cache
+/Users/aleksejmeserakov/Desktop/GB_CT_1/CR/obj/Debug/net6.0/ref/CR.dll
